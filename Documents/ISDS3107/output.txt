@@ -1,0 +1,1 @@
+The avg mpg for Toyotas is 24.91176470588235

@@ -1,0 +1,4 @@
+avg_cty = 16.86
+avg_hwy = 23.44
+ford_hwy = 19.36
+suv_city = 13.50
